@@ -24,3 +24,17 @@ The remaining files are the raw .csv file versions of the data generated from th
 ### 3. Raw CSV files, Significance Tests, and Figures are also grouped by experiment, task, and condition
 
 The raw data is also included according to the experiment based on Experiment 2 or 3, followed by the task, condition, and model type, (e.g. `Experiment 3 - Us vs Them in Two Colored Fishes/EXP3_2AFC_TASK/EXP3_2FAC_FULL_CSV/FULL_CUR_2AFC_SocialPreference_by_Episode.csv`)
+
+<hr>
+
+### Naming Conventions:
+Among the sources files, certain naming conventions are used. You may refer to this list for definitions:
+- `CUR` - Curiosity Module
+- `CTR` - Contrastive Learning Module
+- `CRF` - Curiosity with Random Features
+- `RND` - Random Network Distillation
+- `FULL` - Indicates that the strength of the Intrinsic Motivation Module is at full strength (1.0)
+- `LOW` - Indicates the strength of the Intrinsic Motivation Module is at low strength (0.001)
+- `ALONE` - Indicates that the agent was reared in isolation, without any social experience.
+- `2AFC` - Two-Alternative Forced Choice Task
+- `SS` - Self-Segregation Task
