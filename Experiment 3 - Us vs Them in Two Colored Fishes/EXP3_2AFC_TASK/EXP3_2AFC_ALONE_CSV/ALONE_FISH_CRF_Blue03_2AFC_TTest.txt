@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CRF | Blue03 | (-1.3068778881570122, 0.19428174970765327)CRF: No Significant Difference (p > 0.01) (p = 0.19428174970765327

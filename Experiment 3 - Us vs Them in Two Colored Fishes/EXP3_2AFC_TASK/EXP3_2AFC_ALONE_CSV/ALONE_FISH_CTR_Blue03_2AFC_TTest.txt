@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CTR | Blue03 | (1.220184583773831, 0.22529350186582678)CTR: No Significant Difference (p > 0.01) (p = 0.22529350186582678

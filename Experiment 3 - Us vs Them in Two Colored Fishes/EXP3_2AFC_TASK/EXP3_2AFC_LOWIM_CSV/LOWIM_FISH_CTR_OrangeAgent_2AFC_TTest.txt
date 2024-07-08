@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CTR | OrangeAgent | (-0.2111270263674646, 0.8330471133704915)CTR: No Significant Difference (p > 0.01) (p = 0.8330471133704915

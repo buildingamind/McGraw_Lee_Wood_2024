@@ -1,0 +1,2 @@
+Orange to Blue vs. Orange to Orange and Blue to Blue: Ttest_indResult(statistic=0.06346099224287449, pvalue=0.9524407367184713)
+CTR: No Significant Difference (p > 0.01) (p = 0.9524407367184713

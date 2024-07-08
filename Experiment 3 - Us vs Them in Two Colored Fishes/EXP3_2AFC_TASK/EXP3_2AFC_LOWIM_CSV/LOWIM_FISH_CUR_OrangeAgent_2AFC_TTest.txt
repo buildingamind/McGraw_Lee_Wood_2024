@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CUR | OrangeAgent | (56.91729192622623, 7.926506198464882e-111)CUR: *** Significant Difference (p < 0.01) (p = 7.926506198464882e-111)

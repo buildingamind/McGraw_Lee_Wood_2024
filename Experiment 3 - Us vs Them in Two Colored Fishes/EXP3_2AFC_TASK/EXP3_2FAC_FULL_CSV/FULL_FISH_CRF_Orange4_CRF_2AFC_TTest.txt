@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CRF | Orange4_CRF | (-1.2020090343807595, 0.22993014082614183)CRF: No Significant Difference (p > 0.01) (p = 0.22993014082614183

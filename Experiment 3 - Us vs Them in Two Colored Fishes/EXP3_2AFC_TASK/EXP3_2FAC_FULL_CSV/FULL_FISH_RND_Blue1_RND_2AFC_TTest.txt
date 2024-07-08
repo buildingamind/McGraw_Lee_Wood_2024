@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: RND | Blue1_RND | (1189.1019777373951, 0.0)RND: *** Significant Difference (p < 0.01) (p = 0.0)

@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: RND | Orange04 | (0.334364802266305, 0.7388116056348456)RND: No Significant Difference (p > 0.01) (p = 0.7388116056348456

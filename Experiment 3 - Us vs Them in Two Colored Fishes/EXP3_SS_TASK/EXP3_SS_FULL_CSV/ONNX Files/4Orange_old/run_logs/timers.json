@@ -1,0 +1,992 @@
+{
+    "name": "root",
+    "gauges": {
+        "OrangeAgent_01.Policy.Entropy.mean": {
+            "value": 0.42017340660095215,
+            "min": 0.2828748822212219,
+            "max": 1.7917308807373047,
+            "count": 663
+        },
+        "OrangeAgent_01.Policy.Entropy.sum": {
+            "value": 400.0050964355469,
+            "min": 289.66387939453125,
+            "max": 1834.732421875,
+            "count": 663
+        },
+        "OrangeAgent_01.Step.mean": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_01.Step.sum": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_01.Policy.ExtrinsicValueEstimate.mean": {
+            "value": 0.0017965186852961779,
+            "min": -0.015935201197862625,
+            "max": 0.01695234887301922,
+            "count": 663
+        },
+        "OrangeAgent_01.Policy.ExtrinsicValueEstimate.sum": {
+            "value": 0.014372149482369423,
+            "min": -0.127481609582901,
+            "max": 0.13561879098415375,
+            "count": 663
+        },
+        "OrangeAgent_01.Policy.CuriosityValueEstimate.mean": {
+            "value": 1.9652581214904785,
+            "min": 0.04334248602390289,
+            "max": 3.5111289024353027,
+            "count": 663
+        },
+        "OrangeAgent_01.Policy.CuriosityValueEstimate.sum": {
+            "value": 15.722064971923828,
+            "min": 0.34673988819122314,
+            "max": 28.089031219482422,
+            "count": 663
+        },
+        "OrangeAgent_01.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_01.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.Entropy.mean": {
+            "value": 0.4469793736934662,
+            "min": 0.23674164712429047,
+            "max": 1.7917240858078003,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.Entropy.sum": {
+            "value": 425.52435302734375,
+            "min": 225.3780517578125,
+            "max": 1834.7254638671875,
+            "count": 663
+        },
+        "OrangeAgent_02.Step.mean": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_02.Step.sum": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.ExtrinsicValueEstimate.mean": {
+            "value": -0.00017698870215099305,
+            "min": -0.007516414392739534,
+            "max": 0.03655315935611725,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.ExtrinsicValueEstimate.sum": {
+            "value": -0.0014159096172079444,
+            "min": -0.060131315141916275,
+            "max": 0.292425274848938,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.CuriosityValueEstimate.mean": {
+            "value": 3.100412130355835,
+            "min": -0.006520000286400318,
+            "max": 4.01743221282959,
+            "count": 663
+        },
+        "OrangeAgent_02.Policy.CuriosityValueEstimate.sum": {
+            "value": 24.80329704284668,
+            "min": -0.052160002291202545,
+            "max": 32.13945770263672,
+            "count": 663
+        },
+        "OrangeAgent_02.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_02.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.Entropy.mean": {
+            "value": 0.29844948649406433,
+            "min": 0.22030511498451233,
+            "max": 1.791751742362976,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.Entropy.sum": {
+            "value": 284.1239013671875,
+            "min": 209.73046875,
+            "max": 1834.7537841796875,
+            "count": 663
+        },
+        "OrangeAgent_03.Step.mean": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_03.Step.sum": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.ExtrinsicValueEstimate.mean": {
+            "value": -0.0004702908336184919,
+            "min": -0.007498551160097122,
+            "max": 0.0893644243478775,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.ExtrinsicValueEstimate.sum": {
+            "value": -0.003762326668947935,
+            "min": -0.05998840928077698,
+            "max": 0.71491539478302,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.CuriosityValueEstimate.mean": {
+            "value": 2.1904797554016113,
+            "min": -0.021037934347987175,
+            "max": 3.9542996883392334,
+            "count": 663
+        },
+        "OrangeAgent_03.Policy.CuriosityValueEstimate.sum": {
+            "value": 17.52383804321289,
+            "min": -0.1683034747838974,
+            "max": 31.634397506713867,
+            "count": 663
+        },
+        "OrangeAgent_03.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_03.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.Entropy.mean": {
+            "value": 0.4827500581741333,
+            "min": 0.316778302192688,
+            "max": 1.791757583618164,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.Entropy.sum": {
+            "value": 459.57806396484375,
+            "min": 324.3809814453125,
+            "max": 1834.759765625,
+            "count": 663
+        },
+        "OrangeAgent_04.Step.mean": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_04.Step.sum": {
+            "value": 662944.0,
+            "min": 896.0,
+            "max": 662944.0,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.ExtrinsicValueEstimate.mean": {
+            "value": 0.00021099799778312445,
+            "min": -0.008966353721916676,
+            "max": 0.15144816040992737,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.ExtrinsicValueEstimate.sum": {
+            "value": 0.0016879839822649956,
+            "min": -0.0717308297753334,
+            "max": 1.211585283279419,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.CuriosityValueEstimate.mean": {
+            "value": 2.1161887645721436,
+            "min": 0.004270341247320175,
+            "max": 5.940567970275879,
+            "count": 663
+        },
+        "OrangeAgent_04.Policy.CuriosityValueEstimate.sum": {
+            "value": 16.92951011657715,
+            "min": 0.0341627299785614,
+            "max": 47.52454376220703,
+            "count": 663
+        },
+        "OrangeAgent_04.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_04.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 663
+        },
+        "OrangeAgent_01.Losses.PolicyLoss.mean": {
+            "value": 0.041337152904209994,
+            "min": 0.028872906890076894,
+            "max": 0.06981134845409542,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.PolicyLoss.sum": {
+            "value": 0.041337152904209994,
+            "min": 0.028872906890076894,
+            "max": 0.06981134845409542,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.ValueLoss.mean": {
+            "value": 0.032693199114874005,
+            "min": 7.008140206229048e-06,
+            "max": 0.17318552794555822,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.ValueLoss.sum": {
+            "value": 0.032693199114874005,
+            "min": 7.008140206229048e-06,
+            "max": 0.17318552794555822,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.LearningRate.mean": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.LearningRate.sum": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.Epsilon.mean": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.Epsilon.sum": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.Beta.mean": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_01.Policy.Beta.sum": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.CuriosityForwardLoss.mean": {
+            "value": 0.01871769685142984,
+            "min": 0.0002453268765142032,
+            "max": 0.1582444889160494,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.CuriosityForwardLoss.sum": {
+            "value": 0.01871769685142984,
+            "min": 0.0002453268765142032,
+            "max": 0.1582444889160494,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.CuriosityInverseLoss.mean": {
+            "value": 0.5624875836074352,
+            "min": 0.31868909920255345,
+            "max": 1.7933743993441265,
+            "count": 311
+        },
+        "OrangeAgent_01.Losses.CuriosityInverseLoss.sum": {
+            "value": 0.5624875836074352,
+            "min": 0.31868909920255345,
+            "max": 1.7933743993441265,
+            "count": 311
+        },
+        "OrangeAgent_01.Environment.EpisodeLength.mean": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_01.Environment.EpisodeLength.sum": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_02.Losses.PolicyLoss.mean": {
+            "value": 0.04554584998792658,
+            "min": 0.027710999090534944,
+            "max": 0.06696984140823285,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.PolicyLoss.sum": {
+            "value": 0.04554584998792658,
+            "min": 0.027710999090534944,
+            "max": 0.06696984140823285,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.ValueLoss.mean": {
+            "value": 0.09116259248306353,
+            "min": 7.790699380431457e-07,
+            "max": 0.35928820570309955,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.ValueLoss.sum": {
+            "value": 0.09116259248306353,
+            "min": 7.790699380431457e-07,
+            "max": 0.35928820570309955,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.LearningRate.mean": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.LearningRate.sum": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.Epsilon.mean": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.Epsilon.sum": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.Beta.mean": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_02.Policy.Beta.sum": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.CuriosityForwardLoss.mean": {
+            "value": 0.03283198193336526,
+            "min": 0.00016670428825212488,
+            "max": 0.19051669600109258,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.CuriosityForwardLoss.sum": {
+            "value": 0.03283198193336526,
+            "min": 0.00016670428825212488,
+            "max": 0.19051669600109258,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.CuriosityInverseLoss.mean": {
+            "value": 0.431063241014878,
+            "min": 0.24406023509800434,
+            "max": 1.7958288937807083,
+            "count": 311
+        },
+        "OrangeAgent_02.Losses.CuriosityInverseLoss.sum": {
+            "value": 0.431063241014878,
+            "min": 0.24406023509800434,
+            "max": 1.7958288937807083,
+            "count": 311
+        },
+        "OrangeAgent_02.Environment.EpisodeLength.mean": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_02.Environment.EpisodeLength.sum": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_03.Losses.PolicyLoss.mean": {
+            "value": 0.04503941931761801,
+            "min": 0.022822511265985668,
+            "max": 0.07259375594245891,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.PolicyLoss.sum": {
+            "value": 0.04503941931761801,
+            "min": 0.022822511265985668,
+            "max": 0.07259375594245891,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.ValueLoss.mean": {
+            "value": 0.038882232581575714,
+            "min": 1.1600081428753128e-06,
+            "max": 0.30765543195108574,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.ValueLoss.sum": {
+            "value": 0.038882232581575714,
+            "min": 1.1600081428753128e-06,
+            "max": 0.30765543195108574,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.LearningRate.mean": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.LearningRate.sum": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.Epsilon.mean": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.Epsilon.sum": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.Beta.mean": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_03.Policy.Beta.sum": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.CuriosityForwardLoss.mean": {
+            "value": 0.019774779211729765,
+            "min": 0.0001207456701498207,
+            "max": 0.25068732009579736,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.CuriosityForwardLoss.sum": {
+            "value": 0.019774779211729765,
+            "min": 0.0001207456701498207,
+            "max": 0.25068732009579736,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.CuriosityInverseLoss.mean": {
+            "value": 0.3301278818398714,
+            "min": 0.26360362581908703,
+            "max": 1.7942666411399841,
+            "count": 311
+        },
+        "OrangeAgent_03.Losses.CuriosityInverseLoss.sum": {
+            "value": 0.3301278818398714,
+            "min": 0.26360362581908703,
+            "max": 1.7942666411399841,
+            "count": 311
+        },
+        "OrangeAgent_03.Environment.EpisodeLength.mean": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_03.Environment.EpisodeLength.sum": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_04.Losses.PolicyLoss.mean": {
+            "value": 0.04076217541781565,
+            "min": 0.028166944393888116,
+            "max": 0.06647830634998779,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.PolicyLoss.sum": {
+            "value": 0.04076217541781565,
+            "min": 0.028166944393888116,
+            "max": 0.06647830634998779,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.ValueLoss.mean": {
+            "value": 0.04454217913250128,
+            "min": 5.95066746803911e-09,
+            "max": 0.7801936318476995,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.ValueLoss.sum": {
+            "value": 0.04454217913250128,
+            "min": 5.95066746803911e-09,
+            "max": 0.7801936318476995,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.LearningRate.mean": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.LearningRate.sum": {
+            "value": 0.00010173126608959999,
+            "min": 0.00010173126608959999,
+            "max": 0.0002993472002176,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.Epsilon.mean": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.Epsilon.sum": {
+            "value": 0.1339104,
+            "min": 0.1339104,
+            "max": 0.19978240000000003,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.Beta.mean": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_04.Policy.Beta.sum": {
+            "value": 0.0033976489599999997,
+            "min": 0.0033976489599999997,
+            "max": 0.00997826176,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.CuriosityForwardLoss.mean": {
+            "value": 0.02436666803744932,
+            "min": 2.116964825897109e-05,
+            "max": 0.2401990545913577,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.CuriosityForwardLoss.sum": {
+            "value": 0.02436666803744932,
+            "min": 2.116964825897109e-05,
+            "max": 0.2401990545913577,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.CuriosityInverseLoss.mean": {
+            "value": 0.4997704016665618,
+            "min": 0.3703019494811694,
+            "max": 1.7975672682126362,
+            "count": 311
+        },
+        "OrangeAgent_04.Losses.CuriosityInverseLoss.sum": {
+            "value": 0.4997704016665618,
+            "min": 0.3703019494811694,
+            "max": 1.7975672682126362,
+            "count": 311
+        },
+        "OrangeAgent_04.Environment.EpisodeLength.mean": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_04.Environment.EpisodeLength.sum": {
+            "value": 2999.0,
+            "min": 2999.0,
+            "max": 2999.0,
+            "count": 221
+        },
+        "OrangeAgent_01.Environment.CumulativeReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_01.Environment.CumulativeReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_01.Policy.ExtrinsicReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_01.Policy.ExtrinsicReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_01.Policy.CuriosityReward.mean": {
+            "value": 55.28201028704643,
+            "min": 0.6533943563699722,
+            "max": 110.1385600566864,
+            "count": 220
+        },
+        "OrangeAgent_01.Policy.CuriosityReward.sum": {
+            "value": 55.28201028704643,
+            "min": 0.6533943563699722,
+            "max": 110.1385600566864,
+            "count": 220
+        },
+        "OrangeAgent_02.Environment.CumulativeReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_02.Environment.CumulativeReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_02.Policy.ExtrinsicReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_02.Policy.ExtrinsicReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_02.Policy.CuriosityReward.mean": {
+            "value": 98.68203533813357,
+            "min": 0.4963248334825039,
+            "max": 125.66733014583588,
+            "count": 220
+        },
+        "OrangeAgent_02.Policy.CuriosityReward.sum": {
+            "value": 98.68203533813357,
+            "min": 0.4963248334825039,
+            "max": 125.66733014583588,
+            "count": 220
+        },
+        "OrangeAgent_03.Environment.CumulativeReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_03.Environment.CumulativeReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_03.Policy.ExtrinsicReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_03.Policy.ExtrinsicReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_03.Policy.CuriosityReward.mean": {
+            "value": 74.40876471996307,
+            "min": 1.0499505028128624,
+            "max": 116.59500080347061,
+            "count": 220
+        },
+        "OrangeAgent_03.Policy.CuriosityReward.sum": {
+            "value": 74.40876471996307,
+            "min": 1.0499505028128624,
+            "max": 116.59500080347061,
+            "count": 220
+        },
+        "OrangeAgent_04.Environment.CumulativeReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_04.Environment.CumulativeReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_04.Policy.ExtrinsicReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_04.Policy.ExtrinsicReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 220
+        },
+        "OrangeAgent_04.Policy.CuriosityReward.mean": {
+            "value": 63.45283192396164,
+            "min": 0.05573964095674455,
+            "max": 220.11571168899536,
+            "count": 220
+        },
+        "OrangeAgent_04.Policy.CuriosityReward.sum": {
+            "value": 63.45283192396164,
+            "min": 0.05573964095674455,
+            "max": 220.11571168899536,
+            "count": 220
+        }
+    },
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1693173992",
+        "python_version": "3.8.16 (default, Jun 12 2023, 21:00:42) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "\\\\?\\C:\\Users\\Sceni\\Anaconda3\\envs\\mlagents\\Scripts\\mlagents-learn C:\\Users\\Sceni\\Desktop\\AnimalVR\\Builds\\Windows\\UvsT Replication Study\\configuration.yaml --env=C:\\Users\\Sceni\\Desktop\\AnimalVR\\Builds\\Windows\\UvsT Replication Study\\TrainCondition1 4Orange\\TwinSimulations.exe --run-id=4Orange --time-scale 20 --torch-device cuda --env-args --cam-frequency=0 --steps=3000 --displays=0 --fov=160 --id=4Orange",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1693252816"
+    },
+    "total": 78824.1767151,
+    "count": 1,
+    "self": 0.027999899990390986,
+    "children": {
+        "run_training.setup": {
+            "total": 0.10446350000000004,
+            "count": 1,
+            "self": 0.10446350000000004
+        },
+        "TrainerController.start_learning": {
+            "total": 78824.0442517,
+            "count": 1,
+            "self": 17.568355200375663,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 12.5006602,
+                    "count": 1,
+                    "self": 12.5006602
+                },
+                "TrainerController.advance": {
+                    "total": 78793.9060984996,
+                    "count": 663357,
+                    "self": 25.69054509756097,
+                    "children": {
+                        "env_step": {
+                            "total": 74796.78303110065,
+                            "count": 663357,
+                            "self": 59231.90503890197,
+                            "children": {
+                                "SubprocessEnvManager._take_step": {
+                                    "total": 15551.678851699553,
+                                    "count": 663357,
+                                    "self": 218.87409039577324,
+                                    "children": {
+                                        "TorchPolicy.evaluate": {
+                                            "total": 15332.80476130378,
+                                            "count": 2653428,
+                                            "self": 15332.80476130378
+                                        }
+                                    }
+                                },
+                                "workers": {
+                                    "total": 13.199140499131797,
+                                    "count": 663356,
+                                    "self": 0.0,
+                                    "children": {
+                                        "worker_root": {
+                                            "total": 27685.78725169971,
+                                            "count": 663356,
+                                            "is_parallel": true,
+                                            "self": 20828.242773399747,
+                                            "children": {
+                                                "steps_from_proto": {
+                                                    "total": 0.02852449999999962,
+                                                    "count": 4,
+                                                    "is_parallel": true,
+                                                    "self": 0.005976999999997901,
+                                                    "children": {
+                                                        "_process_maybe_compressed_observation": {
+                                                            "total": 0.02254750000000172,
+                                                            "count": 8,
+                                                            "is_parallel": true,
+                                                            "self": 0.00012080000000125324,
+                                                            "children": {
+                                                                "_observation_to_np_array": {
+                                                                    "total": 0.022426700000000466,
+                                                                    "count": 4,
+                                                                    "is_parallel": true,
+                                                                    "self": 7.540000000005875e-05,
+                                                                    "children": {
+                                                                        "process_pixels": {
+                                                                            "total": 0.022351300000000407,
+                                                                            "count": 4,
+                                                                            "is_parallel": true,
+                                                                            "self": 0.0024378000000009337,
+                                                                            "children": {
+                                                                                "image_decompress": {
+                                                                                    "total": 0.019913499999999473,
+                                                                                    "count": 4,
+                                                                                    "is_parallel": true,
+                                                                                    "self": 0.019913499999999473
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "UnityEnvironment.step": {
+                                                    "total": 6857.515953799964,
+                                                    "count": 663356,
+                                                    "is_parallel": true,
+                                                    "self": 111.01895449965014,
+                                                    "children": {
+                                                        "UnityEnvironment._generate_step_input": {
+                                                            "total": 83.03849150062857,
+                                                            "count": 663356,
+                                                            "is_parallel": true,
+                                                            "self": 83.03849150062857
+                                                        },
+                                                        "communicator.exchange": {
+                                                            "total": 5430.879289399329,
+                                                            "count": 663356,
+                                                            "is_parallel": true,
+                                                            "self": 5430.879289399329
+                                                        },
+                                                        "steps_from_proto": {
+                                                            "total": 1232.5792184003562,
+                                                            "count": 2653424,
+                                                            "is_parallel": true,
+                                                            "self": 409.6520609015878,
+                                                            "children": {
+                                                                "_process_maybe_compressed_observation": {
+                                                                    "total": 822.9271574987685,
+                                                                    "count": 5306848,
+                                                                    "is_parallel": true,
+                                                                    "self": 84.26483709859815,
+                                                                    "children": {
+                                                                        "_observation_to_np_array": {
+                                                                            "total": 738.6623204001703,
+                                                                            "count": 2654308,
+                                                                            "is_parallel": true,
+                                                                            "self": 49.84265589966719,
+                                                                            "children": {
+                                                                                "process_pixels": {
+                                                                                    "total": 688.8196645005031,
+                                                                                    "count": 2654308,
+                                                                                    "is_parallel": true,
+                                                                                    "self": 206.4847326998722,
+                                                                                    "children": {
+                                                                                        "image_decompress": {
+                                                                                            "total": 482.3349318006309,
+                                                                                            "count": 2654308,
+                                                                                            "is_parallel": true,
+                                                                                            "self": 482.3349318006309
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "trainer_advance": {
+                            "total": 3971.432522301392,
+                            "count": 2653424,
+                            "self": 46.536946000012904,
+                            "children": {
+                                "process_trajectory": {
+                                    "total": 621.6831644013544,
+                                    "count": 2653424,
+                                    "self": 553.376195601358,
+                                    "children": {
+                                        "RLTrainer._checkpoint": {
+                                            "total": 68.30696879999635,
+                                            "count": 264,
+                                            "self": 68.30696879999635
+                                        }
+                                    }
+                                },
+                                "_update_policy": {
+                                    "total": 3303.2124119000246,
+                                    "count": 1248,
+                                    "self": 2254.712258300012,
+                                    "children": {
+                                        "TorchPPOOptimizer.update": {
+                                            "total": 1048.5001536000127,
+                                            "count": 29952,
+                                            "self": 1048.5001536000127
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "trainer_threads": {
+                    "total": 1.100008375942707e-06,
+                    "count": 1,
+                    "self": 1.100008375942707e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 0.06913670001085848,
+                    "count": 1,
+                    "self": 2.3300002794712782e-05,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.06911340000806376,
+                            "count": 1,
+                            "self": 0.06911340000806376
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

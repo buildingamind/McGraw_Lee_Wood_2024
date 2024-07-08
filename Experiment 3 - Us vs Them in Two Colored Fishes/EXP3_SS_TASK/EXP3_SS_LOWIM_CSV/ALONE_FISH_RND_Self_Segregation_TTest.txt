@@ -1,0 +1,2 @@
+Orange to Blue vs. Orange to Orange and Blue to Blue: Ttest_indResult(statistic=0.03438408835126873, pvalue=0.9732478423292383)
+RND: No Significant Difference (p > 0.01) (p = 0.9732478423292383

@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CRF | OrangeAgent | (-0.6197832377822089, 0.5362503094259414)CRF: No Significant Difference (p > 0.01) (p = 0.5362503094259414

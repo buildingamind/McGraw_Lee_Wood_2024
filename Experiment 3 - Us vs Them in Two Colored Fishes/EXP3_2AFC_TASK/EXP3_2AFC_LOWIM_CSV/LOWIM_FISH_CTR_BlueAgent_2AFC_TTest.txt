@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CTR | BlueAgent | (4.03768138768394, 8.229827060332718e-05)CTR: *** Significant Difference (p < 0.01) (p = 8.229827060332718e-05)

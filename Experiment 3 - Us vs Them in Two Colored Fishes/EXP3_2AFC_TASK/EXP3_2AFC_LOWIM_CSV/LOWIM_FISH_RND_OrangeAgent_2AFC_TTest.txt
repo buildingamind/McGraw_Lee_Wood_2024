@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: RND | OrangeAgent | (5.595209361113119, 8.922182747059779e-08)RND: *** Significant Difference (p < 0.01) (p = 8.922182747059779e-08)

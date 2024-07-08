@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CUR | BlueAgent | (7.412467041447554, 6.016709783652791e-12)CUR: *** Significant Difference (p < 0.01) (p = 6.016709783652791e-12)

@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: RND | Blue04 | (-0.1663313841260174, 0.8682354014131585)RND: No Significant Difference (p > 0.01) (p = 0.8682354014131585

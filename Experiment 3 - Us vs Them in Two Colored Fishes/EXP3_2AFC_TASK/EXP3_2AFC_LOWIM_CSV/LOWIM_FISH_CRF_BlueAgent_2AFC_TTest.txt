@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CRF | BlueAgent | (3.33586114475582, 0.0010492152238463358)CRF: *** Significant Difference (p < 0.01) (p = 0.0010492152238463358)

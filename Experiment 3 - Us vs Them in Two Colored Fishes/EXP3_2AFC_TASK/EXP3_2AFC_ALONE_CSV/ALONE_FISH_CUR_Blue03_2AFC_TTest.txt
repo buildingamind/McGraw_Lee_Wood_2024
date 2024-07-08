@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CUR | Blue03 | (0.6366915760822096, 0.5257952203315106)CUR: No Significant Difference (p > 0.01) (p = 0.5257952203315106

@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CTR | Orange3_CTR | (37.42765513807885, 5.6927590749712e-147)CTR: *** Significant Difference (p < 0.01) (p = 5.6927590749712e-147)

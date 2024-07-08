@@ -1,0 +1,1 @@
+2AFC Test Social Preference Score T-Test: CUR | Orange02 | (0.9773270780305813, 0.3307894276655622)CUR: No Significant Difference (p > 0.01) (p = 0.3307894276655622
