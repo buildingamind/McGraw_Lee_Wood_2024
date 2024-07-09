@@ -210,3 +210,9 @@ Open up your web browser and go to `http://localhost:6006` to visualize the trai
 After running ML-Agents on the environment, a `results` folder will be exported to the path configured in your `config.yaml` file along with the `run_id` as the folder containin the trained models. Results are in `.onnx` (Open Neural Network Exchange) format, which can be directly assigned to an ML-Agent Behavior policy inside the Unity Game Engine.
 
 If you encounter any issues, ensure that all versions match those specified, and refer to the [ML-Agents documentation](https://github.com/Unity-Technologies/ml-agents) for more detailed information. Otherwise, please open an Issue ticket from within GitHub.
+
+## Running Example Executables of Pre-Built Curiosity Models:
+- If you would like to inspect the behavior of a trained Curiosity models, you can open any `*_testing` folders and directly launch the executable without any versions of Python, PyTorch, ML-Agents, etc. installed. This is because the models have already been trained, assigned, and packaged inside the executables themselves (meaning they cannot be used for training either, because none of the ML-Agents are open for training.)
+- The purpose of these environments are specifically for those who do not wish to train their own agents -- or who are not familiar with Python, Unity, etc.
+- You can launch these environments simply by downloading them, extracting them, and double-clicking their .exe file (Windows)
+- When you launch these environments, a folder will be created in the same executable directory under `\TwinSimulations_Data\Logs\`, which will continually output raw data concerning the position and orientation of each agent within the environment as a .csv file. (Note: In many of these environments, several tests are occuring in parallel even though the scene only shows one chamber, which is why multiple agents will show in the output CSV file.)
