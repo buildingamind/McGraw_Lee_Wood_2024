@@ -1,4 +1,5 @@
 # VERIFIED 7/2/2024 TO FUNCTION AS INTENDED ON DATA PRESENT IN DIRECTORY
+# 7/12/2024 Figure Generation now correctly states the LOW IM model used in the title (= 0.001 instead of = 1)
 
 # Necessary Libraries
 import pandas as pd
@@ -56,7 +57,7 @@ with warnings.catch_warnings():
         # plt.imshow(dist_matrix, cmap='viridis', vmin=0, vmax=vmax)
         plt.imshow(dist_matrix, cmap='viridis', vmin=0, vmax=0.5)
         plt.colorbar(label='Distance')
-        plt.title(f'Self-Grouping Task from Socially Reared Agents\n({model} = 1.0)  \n', fontweight='bold',
+        plt.title(f'Self-Grouping Task from Socially Reared Agents\n({model} = 0.001.0)  \n', fontweight='bold',
                 fontsize=15)
         plt.savefig(rf'{DATA_PATH}/LOWIM_{model}_distance.png')
         plt.close()
@@ -182,7 +183,7 @@ with warnings.catch_warnings():
                     markersize=0, capsize=5)
 
         plt.ylabel('Average Distance between Members (Units)', fontweight='bold', fontsize=14)
-        plt.title(f'\n  Average Distance Between Socially-Reared Fish During Self-Segregation \n({model} = 1)  \n',
+        plt.title(f'\n  Average Distance Between Socially-Reared Fish During Self-Segregation \n({model} = 0.001)  \n',
                 fontweight='bold', fontsize=12)
 
         # xticks()
@@ -207,7 +208,7 @@ with warnings.catch_warnings():
         plt.errorbar([0, 1], bars_combined, yerr=error_bars_combined, fmt='*', color='black', markersize=0, capsize=5)
 
         plt.ylabel('Average Distance between Members (Units)', fontweight='bold', fontsize=14)
-        plt.title(f'\n  Average Distance Between Socially-Reared Fish During Self-Segregation \n({model} = 1)  \n',
+        plt.title(f'\n  Average Distance Between Socially-Reared Fish During Self-Segregation \n({model} = 0.001)  \n',
                 fontweight='bold', fontsize=12)
 
         # xticks()
