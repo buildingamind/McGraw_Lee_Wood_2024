@@ -65,11 +65,19 @@ Below are the steps to set up and run the executables provided, using the specif
    ```bash
    python -m venv mlagents_env
    ```
+   _(or)_
+   ```conda
+   conda create -n mlagents_env python=3.8
+   ```
 
 3. **Activate the Virtual Environment**:
 
    ```bash
    .\mlagents_env\Scripts\activate
+   ```
+   _(or)_
+   ```conda
+   conda activate mlagents_env
    ```
 
 #### 2. **Install Required Dependencies**
