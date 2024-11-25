@@ -1,2 +1,0 @@
-Orange to Blue vs. Orange to Orange and Blue to Blue: Ttest_indResult(statistic=-15.978700248876077, pvalue=2.5603667946809834e-07)
-CRF: *** Significant Difference (p < 0.01) (p = 2.5603667946809834e-07)

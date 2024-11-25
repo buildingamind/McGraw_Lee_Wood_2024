@@ -1,0 +1,2 @@
+Within Color vs. Between Color: Ttest_indResult(statistic=0.14597783712932652, pvalue=0.8860865995435403)
+CUR: No Significant Difference (p > 0.01) (p = 0.8860865995435403

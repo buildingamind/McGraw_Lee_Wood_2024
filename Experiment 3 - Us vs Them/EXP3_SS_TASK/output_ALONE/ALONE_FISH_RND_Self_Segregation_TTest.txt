@@ -1,0 +1,2 @@
+Within Color vs. Between Color: Ttest_indResult(statistic=0.11103511642281816, pvalue=0.9131782853941732)
+RND: No Significant Difference (p > 0.01) (p = 0.9131782853941732
