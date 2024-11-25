@@ -1,0 +1,2 @@
+Within Color vs. Between Color: Ttest_indResult(statistic=-3.51113104405788, pvalue=0.007233936448522066)
+CTR: *** Significant Difference (p < 0.01) (p = 0.007233936448522066)

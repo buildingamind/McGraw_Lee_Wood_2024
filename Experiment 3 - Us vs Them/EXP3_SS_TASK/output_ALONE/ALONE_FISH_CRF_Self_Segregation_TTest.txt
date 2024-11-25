@@ -1,0 +1,2 @@
+Within Color vs. Between Color: Ttest_indResult(statistic=0.010047206507194043, pvalue=0.9921256602816921)
+CRF: No Significant Difference (p > 0.01) (p = 0.9921256602816921
